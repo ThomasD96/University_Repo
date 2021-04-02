@@ -1,35 +1,17 @@
 # Credit Risk Modeling - Predicting Customer Loan Defaults with Machine Learning Models
 
-### Author: Thomas Dornigg
-### Supervisor: João Pedro Pereira
-### Faculty: Nova SBE
-
 ### Project File Summary
 - <b>README.md</b> - a summary of all contents in this repository.
-- <b>/DataCleaning</b> - Notebook containing all code used for the data cleaning steps
+- <b>/Data Processing</b> - Notebook containing all code used for the data cleaning steps
 - <b>/EDA</b> - Notebook containg all exploratory data anlysis and visualizations
 - <b>/Preprocessing</b> - Jupyter Notebook containing all code used for data scaling and transformation
-- <b>/Modeling</b> - Jupyter Notebook containing all code used for RandomForest, GradientBoost, AdaBoost, & BaggingClassifier code
-- <b>/DeepLearning</b> - Notebook containing the neural network code
-- <b>/Presentation</b> - A pdf of the powerpoint presentation
+- <b>/ML Modelling</b> - Jupyter Notebook containing all code used for Logisitic Regression, RandomForest, GradientBoost, AdaBoost, etc. 
+- <b>/Deep-Learning</b> - Notebook containing the neural network (ANN) code
+- <b>/Thesis</b> - A pdf of the powerpoint presentation
 
 ### Objective:
-Since the financial crisis, it has become increasingly common for banks and lending institutions to use machine learning and AI to create complex credit risk models to sort loans or borrowers into "default" and "non-default" classes. This is normally done to calculate the "PD" (probability of default), a single stage within a multi-part process for modeling credit risk.
-
-Whilst lenders have found that these models do well in calculating the probability of default, the lack of explainability that these black box models present has become increasingly problematic.
-
-The cfpb (the regulatory body responsible for consumer protection in the financial sector) warned:
-
-<i>"[Machine learning] advancements bring new risks, such as unintended side effects and greater potential for unlawful lending, discrimination, or misunderstanding by consumers."</i>
-
-Similarly, FICO (a credit scoring company used by 90% of US lenders) outlined in 2020:
-
-<i>"it is often the case that neither the trained model nor its individual predictions are readily explainable, but regulators and consumers demand explanations... Regulators require that financial institutions provide reasons to customers when taking “adverse action” (i.e. turning down a loan)"</i>
-
-With this in mind, it is crucial that methods are established to explain what was previously considered "unexplainable." In light of this "black box problem," there has been rapid advancement in the past few years within academia to develop methods for model explainability. 
-
-It will be the objective of this project to apply the most promising of these methods to several machine learning algorithms that have traditionally been difficult to explain. 
-
+Since the financial crisis, it has become increasingly common for banks and lending institutions to use machine learning and AI to create complex credit risk models to sort loans or borrowers into "default" and "non-default" classes. This is normally done to calculate the "PD" (probability of default), a single stage within a multi-part process for modelling credit risk. Whilst lenders have found that these models do well in calculating the probability of default, the lack of explainability that these black box models present has become increasingly problematic. With this in mind, it is crucial that methods are established to explain what was previously considered "unexplainable." In light of this "black box problem," there has been rapid advancement in the past few years within academia to develop methods for model explainability. 
+It will be the objective of this project to apply the most promising of these methods to several machine learning algorithms that have traditionally been difficult to explain.
 
 ### The Data:
 The data used in this project comes from "Lending Club" a peer-to-peer lending company, headquartered in San Francisco, California. The dataset contains all loans issued by lending club from 2007-2018. The target variable in this data is the "current loan status" (Default, Charged-off, Late, Full-Paid, etc). The data includes 2.6 million observations and 143 features. The feature described key qualities of the loan such as interest-rate, amount, balance, grade etc. As well as qualities of the borrower such as account balance, number of loan inquieries, number of previously deliquent loans etc.
