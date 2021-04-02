@@ -1,4 +1,4 @@
-# Explaining Black Box Credit Risk Models
+# Credit Risk Modeling - Predicting Customer Loan Defaults with Machine Learning Models
 Extracting explainability from black box machine learning algorithms used to predict defaults 
 
 ### Project File Summary
