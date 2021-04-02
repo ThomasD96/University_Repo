@@ -14,7 +14,7 @@ Since the financial crisis, it has become increasingly common for banks and lend
 It will be the objective of this project to apply the most promising of these methods to several machine learning algorithms that have traditionally been difficult to explain.
 
 ### The Data:
-The data used in this project comes from "Lending Club" a peer-to-peer lending company, headquartered in San Francisco, California. The dataset contains all loans issued by lending club from 2007-2018. The target variable in this data is the "current loan status" (Default, Charged-off, Late, Full-Paid, etc). The data includes 2.6 million observations and 143 features. The feature described key qualities of the loan such as interest-rate, amount, balance, grade etc. As well as qualities of the borrower such as account balance, number of loan inquieries, number of previously deliquent loans etc.
+The data used in this project comes from a former "Kaggle" competition; the data can be found here. The dataset contains all loans issued by lending club from 2007-2018. The target variable in this data is the "current loan status" (Default, Charged-off, Late, Full-Paid, etc). The data includes 2.6 million observations and 143 features. The feature described key qualities of the loan such as interest-rate, amount, balance, grade etc. As well as qualities of the borrower such as account balance, number of loan inquieries, number of previously deliquent loans etc.
 
 ### Data Preparation: 
 Many of the features contained null values. Some of these were missing at random, but for the vast majority of the features, the null values were not missing at random. In many cases, the missing values were replaced with zero. In these instances the null values actually represented a quality of the loan (ie. no inquiries made in the last 30 days), rather than the lack of data (ie. not having an interest rate). 
@@ -51,19 +51,7 @@ The models were trained on balanced data to eliminate any majority bias. However
 - The brilliance of shapely values is not only can they explain the contribution of a featue to the overall model prediction, but they can also explain <i>local</i> predictions for a single observation (ie. how did the features of a single observation contribute to the model's prediction for that observation).
 - The SHAP library contains great visualizations for shapely value explanations which I have included in the modeling notebook.
 
-### Conclusions: 
-- The results from the explainability methods applied to the models indicate that at a global level the following features contribute the most to the models' predictions:
-   - <b>Subgrade</b> (The risk grade of the loan assigned by lending club) This value ranges from A1,...,A7 which indicate high quality loans, all the way down to F1,...,F7 indicating low quality loans. The shap values indicate a lower quality grade corresponds to a higher probability of loan default. This should be encouraging for lending club. These results indicate that their internal grading methods are currently robust.  
-   - <b>Balance to credit limit</b> (The outstanding loan balance divided by the borrower's credit limit) This ratio is also known as the utilization ratio. The shap values indicate that individuals with lower utilization ratios are more likely to default on a loan. 
-   -<b>Debt to income ratio</b> (The amount of monthly debt payments divided by the individuals monthly income. The shap values indicate that individuals with higher debt to income ratios are more likely to default on a loan.
+
    
-### Future Work:
-It would be valuable use of time to create counterfactual explanations for each observation. For instance, if a borrower's application was classified as a default and consequently rejected for a loan, a counterfactual explanation would look something like this:
-
-<i>Your application was denied because your balance to credit ratio is 4.9 and your subgrade is E5. If your subgrade had been E4 and your balance to ratio had been 4.2, with all other values remaining constant, your application would have been approved.</i>
-
-This kind of information would provide invaluable for borrowers and regulators. 
-
-Another area for future work would be trying the replicate this project on another dataset of loans to see if the feature significances were similar (in both direction and magnitude).
 
 
