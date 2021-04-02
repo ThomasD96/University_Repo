@@ -1,5 +1,8 @@
 # Credit Risk Modeling - Predicting Customer Loan Defaults with Machine Learning Models
-Extracting explainability from black box machine learning algorithms used to predict defaults 
+
+### Author: Thomas Dornigg
+### Supervisor: João Pedro Pereira
+### Faculty: Nova SBE
 
 ### Project File Summary
 - <b>README.md</b> - a summary of all contents in this repository.
