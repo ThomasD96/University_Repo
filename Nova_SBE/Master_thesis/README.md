@@ -2,7 +2,9 @@
 ### Master-thesis @ NovaSBE, Academic year 2021/22
 ### In co-operation with zeb.rolfes.schierenböck.associates gmbh
 
-![header image](https://raw.github.com/KrisKasprzak/ILI9341_t3_controls/master/BarChartH.jpg)
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 
 > **Author**: Thomas Dornigg
 > > **Supervisor**: Prof. João Pedro Pereira
