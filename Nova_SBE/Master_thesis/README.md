@@ -3,7 +3,7 @@
 ### In co-operation with zeb.rolfes.schierenböck.associates gmbh
 
 <p align="center">
-  <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Zeb.rolfes.schierenbeck.associates_Logo.svg/460/300">
+  <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Zeb.rolfes.schierenbeck.associates_Logo.svg">
 </p>
 
 > **Author**: Thomas Dornigg
