@@ -12,7 +12,7 @@ Credit Risk Modeling - Prediciting Customer Loan Defaults with Machine Learning 
 In co-operation with: **`zeb.rolfes.schierenbeck.associates gmbh`**
 
 <p align="center">
-  <img width="310" height="100" src="https://github.com/ThomasD96/University_Repo/blob/master/Nova_SBE/Master_thesis/pictures/zeb_logo.png">
+  <img width="290" height="100" src="https://github.com/ThomasD96/University_Repo/blob/master/Nova_SBE/Master_thesis/pictures/zeb_logo.png">
 </p>
 
 
