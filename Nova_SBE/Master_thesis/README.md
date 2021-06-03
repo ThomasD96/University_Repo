@@ -7,7 +7,7 @@
 In co-operation with: **`zeb.rolfes.schierenbeck.associates gmbh`**
 
 <p align="center">
-  <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Zeb.rolfes.schierenbeck.associates_Logo.svg">
+  <img width="300" height="250" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Zeb.rolfes.schierenbeck.associates_Logo.svg">
 </p>
 
 
