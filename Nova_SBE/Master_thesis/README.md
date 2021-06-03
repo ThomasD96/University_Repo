@@ -2,7 +2,7 @@
 ### Master-thesis @ NovaSBE
 > **Author**: Thomas Dornigg <br>
 > **Supervisor**: Prof. João Pedro Pereira <br>
-> Academic year 2021/22
+> **Academic year**: 2021/22 (Semester 3)
 
 In co-operation with: **`zeb.rolfes.schierenbeck.associates gmbh`**
 
