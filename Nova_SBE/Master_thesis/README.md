@@ -11,7 +11,11 @@ Credit Risk Modeling - Prediciting Customer Loan Defaults with Machine Learning 
 
 In co-operation with: **`zeb.rolfes.schierenbeck.associates gmbh`**
 
-<img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/> <img src="https://openclipart.org/download/71101/two.svg" width="300"/>
+<p align="center">
+  <img alt="Light" src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://openclipart.org/download/71101/two.svg" width="45%">
+</p>
 
 ## Overview
 In today’s financial markets, banks play a crucial role, especially when it comes to the decision on who should be granted a loan and under which market conditions. A major issue which financial institutions have to face in this process is the risk of non-payment of its counterparty, meaning that banks need to pay special attention not to give a loan to risky borrowers. However, since banks have to analyze and process a certain amount of applications every day, this method is time-consuming and the result of the evaluation, when done manually, prone to errors. In this case, the best option for the bank is to evaluate the customer based on its previous credit history in a fully automatic way. To do so, statistical credit scoring algorithms are required to overcome those challenges. These algorithms, which compute probability of defaults for each applicant based on the credit history of its customers, are the main methods which financial institutions nowadays use to determine whether a loan should be granted to a borrower or not.
