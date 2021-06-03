@@ -1,6 +1,6 @@
 # Credit Risk Modeling  Prediciting Customer Loan Defaults with Machine Learning Models
 ### Master-thesis @ NovaSBE, Academic year 2021/22
-### In co-operation with zeb.rolfes.schierenböck.associates gmbh
+### In co-operation with: 'zeb.rolfes.schierenbeck.associates gmbh'
 
 <p align="center">
   <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Zeb.rolfes.schierenbeck.associates_Logo.svg">
