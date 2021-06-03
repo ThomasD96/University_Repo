@@ -3,7 +3,7 @@
 > **Author**: Thomas Dornigg <br>
 > **Supervisor**: Prof. João Pedro Pereira
 
-### In co-operation with: <zeb.rolfes.schierenbeck.associates gmbh>
+In co-operation with: `zeb.rolfes.schierenbeck.associates gmbh'
 
 <p align="center">
   <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Zeb.rolfes.schierenbeck.associates_Logo.svg">
