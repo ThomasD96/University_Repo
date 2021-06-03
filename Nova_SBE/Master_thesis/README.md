@@ -29,12 +29,3 @@ In this project, the goals achieved are :
 
 ## Data Sources
 The dataset for this project can be found on [Kaggle](https://www.kaggle.com/laotse/credit-risk-dataset/tasks). It was published by Lao Tse under the CC0 public licence (usability 7/10). The data contains basic financial information about 31,679 borrowers with a total of 12 features related to each of the borrowers. Along with it, there are more specific information provided about every particular borrower. Predicting whether or not a client will repay a loan or have difficulty is a critical business need, and Home Credit wants to unlock the full potential of their data to see what sort of machine learning/deep learning models can be develop to help them in this task.
-
-## Data Modeling 
-We use the following Machine learning algorithms and built Classification models for our supervised classification task.
-### 1)	Naïve Bayes
-### 2)	Logistic Regression
-### 3)	Decision Tree
-### 4)	Random Forest
-### 5)	Gradient Boosting Machine (GBM)
-### 6)	Deep Learning
