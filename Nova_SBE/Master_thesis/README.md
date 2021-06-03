@@ -1,7 +1,9 @@
 Credit Risk Modeling - Prediciting Customer Loan Defaults with Machine Learning Models
 ======================================================
 
-> Thesis work submitted at Computer Science department at University of Kaiserslautern
+> Work project submitted at the Credit Risk department at Nova School of Business and Economics (Nova SBE)
+
+[![License MIT](http://img.shields.io/badge/license-MIT-brightgreen.svg)](license.md)
 
 > **Author**: [Thomas Dornigg](https://www.linkedin.com/in/thomas-dornigg/) <br>
 > **Supervisor**: Prof. João Pedro Pereira <br>
