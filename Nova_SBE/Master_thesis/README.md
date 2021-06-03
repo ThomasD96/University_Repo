@@ -1,5 +1,5 @@
 # Credit Risk Modeling  Prediciting Customer Loan Defaults with Machine Learning Models
-### Master-thesis @ NovaSBE
+### Master-thesis @ NovaSBE, Academic year 2021/22
 > **Author**: Thomas Dornigg
 
 ## Overview
