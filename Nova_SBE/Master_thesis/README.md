@@ -12,9 +12,9 @@ Credit Risk Modeling - Prediciting Customer Loan Defaults with Machine Learning 
 In co-operation with: **`zeb.rolfes.schierenbeck.associates gmbh`**
 
 <p align="center">
-  <img alt="Light" src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="45%">
+  <img alt="Light" src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="20%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://openclipart.org/download/71101/two.svg" width="45%">
+  <img alt="Dark" src="https://openclipart.org/download/71101/two.svg" width="20%">
 </p>
 
 ## Overview
