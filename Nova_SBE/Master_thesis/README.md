@@ -28,8 +28,8 @@ The objective of this project is to use historical loan application data to pred
 
 In this project, the goals achieved are :
 - Data Exploration routines are designed and implemented to do standard statistical analysis and visualization.
-- Classification models such as Logistic Regression, Random Forest (RF), XGBoost, AdaBoost, Light Gradient Boosting Machine (LGBM), CatBoost and KNN are built to predict whether or not an applicant will be able to repay a loan
-- Evaluated Classification models by Accuracy, Confusion Matrix, Precision, Recall, True Negative Rate (TNR), ROC – AUC chart
+- Classification models such as Logistic Regression, Random Forest, XGBoost, Decision Tree, AdaBoost and Support Vector Machine are built to predict whether or not an applicant will be able to repay a loan
+- Evaluated Classification models by Accuracy, Precision, Recall, True Negative Rate, True Positive Rate, False Negative Rate, False Positive Rate and ROC – AUC chart
 - Create a GUI based on the final models 
 
 ## Data Sources
