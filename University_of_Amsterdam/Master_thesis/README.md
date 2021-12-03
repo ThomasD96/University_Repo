@@ -10,7 +10,7 @@ Cryptocurrency Fraud - Detecting Fraudulent Transactions with Machine Learning M
 > **Academic year**: 2021/22
 
 <p align="center">
-  <img alt="Dark" src="https://github.com/ThomasD96/University_Repo/blob/master/University_of_Amsterdam/Master_thesis/Pictures/UVA-amsterdam-business-school.png" width="45%">
+  <img alt="Dark" src="https://github.com/ThomasD96/University_Repo/blob/master/University_of_Amsterdam/Master_thesis/Pictures/UVA-amsterdam-business-school.png" width="60%">
 </p>
 
 ## Overview
