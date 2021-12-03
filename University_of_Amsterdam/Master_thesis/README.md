@@ -1,12 +1,12 @@
-Credit Risk Modeling - Prediciting Customer Loan Defaults with Machine Learning Models
+Cryptocurrency Fraud - Detecting Fraudulent Transactions with Machine Learning Models
 ======================================================
 
-> Work project submitted at the Credit Risk department at Nova School of Business and Economics (Nova SBE)
+> Master thesis submitted at the Faculty of Economics and Business (Sectie Finance) at Universiteit van Amsterdam (UvA)
 
 [![License MIT](http://img.shields.io/badge/license-MIT-brightgreen.svg)](license.md)
 
 > **Author**: [Thomas Dornigg](https://www.linkedin.com/in/thomas-dornigg/) <br>
-> **Supervisor**: Prof. João Pedro Pereira <br>
+> **Supervisor**: Prof. XYZ <br>
 > **Academic year**: 2021/22
 
 In co-operation with: **`zeb.rolfes.schierenbeck.associates gmbh`**
