@@ -9,12 +9,8 @@ Cryptocurrency Fraud - Detecting Fraudulent Transactions with Machine Learning M
 > **Supervisor**: Prof. XYZ <br>
 > **Academic year**: 2021/22
 
-In co-operation with: **`zeb.rolfes.schierenbeck.associates gmbh`**
-
 <p align="center">
-  <img alt="Light" src="https://github.com/ThomasD96/University_Repo/blob/master/Nova_SBE/Master_thesis/pictures/zeb_logo.png" width="20%" hspace="25" >
-&nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/ThomasD96/University_Repo/blob/master/Nova_SBE/Master_thesis/pictures/nova_logo.png" width="45%">
+  <img alt="Dark" src="https://github.com/ThomasD96/University_Repo/blob/master/University_of_Amsterdam/Master_thesis/Pictures/UVA-amsterdam-business-school.png" width="45%">
 </p>
 
 ## Overview
