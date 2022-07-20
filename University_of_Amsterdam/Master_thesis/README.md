@@ -1,4 +1,4 @@
-Cryptocurrency Fraud - Detecting Fraudulent Transactions with Machine Learning Models
+Cryptocurrency Fraud Detection: Supervised Machine Learning for Illicit Ethereum Transactions
 ======================================================
 
 > Master thesis submitted at the Faculty of Economics and Business (Sectie Finance) at Universiteit van Amsterdam (UvA)
@@ -6,7 +6,7 @@ Cryptocurrency Fraud - Detecting Fraudulent Transactions with Machine Learning M
 [![License MIT](http://img.shields.io/badge/license-MIT-brightgreen.svg)](license.md)
 
 > **Author**: [Thomas Dornigg](https://www.linkedin.com/in/thomas-dornigg/) <br>
-> **Supervisor**: Prof. XYZ <br>
+> **Supervisor**: Prof. Torsten Jochem <br>
 > **Academic year**: 2021/22
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
